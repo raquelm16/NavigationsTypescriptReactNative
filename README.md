@@ -1,0 +1,2 @@
+# NavigationsTypescriptReactNative
+drawer,
